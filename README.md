@@ -4,7 +4,7 @@ I’m a self-taught full-stack web developer for fun, currently looking for proj
 
 ## Skills
 
-- Frontend: HTML, CSS, JavaScript, React, C#
+- Frontend: HTML, CSS, JavaScript, C#
 - Backend: Node.js, Express, C++, Python
 - Databases: MongoDB, SQLite3, Firebase
 - Other:  API integration, Electron, WebSockets
