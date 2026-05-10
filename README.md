@@ -2,7 +2,7 @@
 
 > Researching the inefficiencies that make people hate generative AI.
 
-I'm a student and independent researcher from Puerto Rico, working on making language models more efficient. My focus is on attention mechanisms and the structural problems that make long-context inference impractical for most users.
+I'm a student and independent researcher from Puerto Rico, working on minimizing the resource consumption of language models. My focus is on attention mechanisms and the structural problems that make long-context inference impractical for most users.
 
 ## Research
 
