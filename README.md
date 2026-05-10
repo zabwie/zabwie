@@ -1,26 +1,36 @@
-# Objective
+# zabwie
 
-I’m a self-taught full-stack web developer for fun, currently looking for projects where I can build useful, responsive websites and applications. I focus on writing clean code and making sure everything works smoothly for users.
+> Researching the inefficiencies that make people hate generative AI.
 
-## Skills
+I'm a student and independent researcher from Puerto Rico, working on making language models more efficient. My focus is on attention mechanisms and the structural problems that make long-context inference impractical for most users.
 
-- Frontend: HTML, CSS, JavaScript, C#
-- Backend: Node.js, Express, C++, Python
-- Databases: MongoDB, SQLite3, Firebase
-- Other:  API integration, Electron, WebSockets
+## Research
 
-## Projects
+My work centers on the "slow-burn problem" in transformer architectures - where critical information gets evicted before the model can use it. I explore tiered compression, attention-guided scoring, and structural survival floors to enable long-context inference on consumer hardware.
 
-- Virtual Pet Desktop App – A game built with HTML, CSS, and JavaScript, packaged as a desktop app using Electron.
-- AI Chatbot – A local AI chatbot using Electron and Ollama for real-time interaction.
-- 404: Forbidden – In progress, a horror game with AI interaction and learning.
+Some of this work comes from dreams. Two of my papers started that way. I'm still figuring out what that means.
 
-## Experience
+## Current Focus
 
-- Built and deployed multiple personal projects.
-- Created full-stack applications with user authentication and real-time features.
-- Developing a pixel art generation tool with customization features.
+- **KV cache compression**: Making 16K+ context accessible on consumer GPUs
+- **Attention efficiency**: Reducing the computational cost of self-attention
+- **Structural priors**: Understanding what tokens actually need to survive
 
-## Why Hire Me?
+## Philosophy
 
-- I get things done efficiently and focus on making functional, user-friendly applications. If you need a website, a web app, or anything in between, I’m ready to help. Let’s talk.
+I believe the biggest barrier to AI adoption isn't capability - it's efficiency. When a model needs 80GB of VRAM to remember what you said five minutes ago, something is broken. My research tries to fix that.
+
+## Background
+
+Self-taught. Aspiring. Theoretical.
+
+I don't have a traditional CS background, but I spend my time reading papers, running experiments, and trying to understand why attention works the way it does. Sometimes the ideas come from dreams. Sometimes they come from spite.
+
+## Contact
+
+- GitHub: [@zabwie](https://github.com/zabwie)
+- Email: [zabdiel@example.com](mailto:zabdiel@example.com)
+
+---
+
+*"The slow-burn problem isn't just about memory - it's about forgetting what matters."*
