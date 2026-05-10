@@ -26,11 +26,6 @@ Self-taught. Aspiring. Theoretical.
 
 I don't have a traditional CS background, but I spend my time reading papers, running experiments, and trying to understand why attention works the way it does. Sometimes the ideas come from dreams. Sometimes they come from spite.
 
-## Contact
-
-- GitHub: [@zabwie](https://github.com/zabwie)
-- Email: [zabdiel@example.com](mailto:zabdiel@example.com)
-
 ---
 
 *"The slow-burn problem isn't just about memory - it's about forgetting what matters."*
